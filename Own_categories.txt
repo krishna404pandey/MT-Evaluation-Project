@@ -1,0 +1,24 @@
+There are a total of 17 categories, among them 2 are default categories – ‘Default_similar’ and ‘Default_dissimilar’, and the rest 15 are main categories (5 are in the ‘Similar’ group and 10 are in the ‘Dissimilar’ group).
+
+
+Similar Translation Categories
+Word_synm: Uses synonymous words while preserving the meaning of the reference.
+Mixd_lang: Combines source- and target-language words or converting scripts while maintaining equivalence with the reference.
+Negt_anto: Preserves meaning through the combined use of negation and antonymic expressions.
+Identical: Matches the reference text exactly or with negligible variation.
+Fluent: Conveys the same meaning as the reference with minor, fluent variations.
+Default_similar: Is semantically similar or a valid paraphrase of the reference through other means.
+
+Dissimilar Translation Categories
+Anto_flip: Contradicts the reference meaning due to an antonym substitution.
+Negt_flip: Contradicts the reference meaning because of incorrect negation.
+Gend_flip: Differs from the reference due to a gender mismatch.
+Sing_plul: Differs from the reference due to incorrect singular–plural usage.
+Tens_chng: Differs from the reference due to a tense mismatch.
+Word_ordr: Differs from the reference due to a word order change that alters meaning.
+Word_rplc: Uses semantically dissimilar words in place of reference terms.
+Add_extra: Introduces additional content that changes the intended meaning.
+Omission: Omits essential content required to preserve full meaning.
+Neutral: Is unrelated or semantically disconnected from the reference.
+Default_dissimilar: Differs from the reference through other unspecified mechanisms.
+
